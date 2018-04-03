@@ -37,7 +37,7 @@
       "metadata": {
         "description": "The URL to a public git repository used for the default Jenkins job. It must include a Dockerfile at the root of the repo."
       },
-      "defaultValue": "https://github.com/azure-devops/spin-kub-demo.git"
+      "defaultValue": "https://github.com/tmosleytc/spin-kub-demo.git"
     },
     "dockerRepository": {
       "type": "string",
