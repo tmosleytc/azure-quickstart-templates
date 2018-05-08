@@ -64,7 +64,7 @@
     "kubernetesName": "[concat('containerservice-', resourceGroup().name)]",
     "kubernetesDnsPrefix": "[concat('k8s', uniquestring(resourceGroup().id))]",
     "pipelinePort": "8000",
-    "_artifactsLocation": "https://raw.githubusercontent.com/Azure/azure-devops-utils/v0.24.0/",
+    "_artifactsLocation": "https://raw.githubusercontent.com/Azure/azure-devops-utils/v0.29.0/",
     "_extensionScript": "301-jenkins-acr-spinnaker-k8s.sh",
     "_artifactsLocationSasToken": ""
   },
